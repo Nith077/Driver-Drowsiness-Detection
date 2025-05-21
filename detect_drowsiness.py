@@ -8,7 +8,7 @@ from threading import Thread
 
 
 def start_alarm(sound):
-    """Play the alarm sound"""
+    """Play the alarm 2 times"""
     playsound('data/alarm.mp3')
 
 
